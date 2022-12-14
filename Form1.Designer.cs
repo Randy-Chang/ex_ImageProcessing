@@ -73,6 +73,7 @@
             // 
             // pbFig1
             // 
+            this.pbFig1.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.pbFig1.Location = new System.Drawing.Point(8, 58);
             this.pbFig1.Name = "pbFig1";
             this.pbFig1.Size = new System.Drawing.Size(400, 300);
@@ -81,6 +82,7 @@
             // 
             // pbFig2
             // 
+            this.pbFig2.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.pbFig2.Location = new System.Drawing.Point(414, 58);
             this.pbFig2.Name = "pbFig2";
             this.pbFig2.Size = new System.Drawing.Size(400, 300);
@@ -89,6 +91,7 @@
             // 
             // pbFig4
             // 
+            this.pbFig4.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.pbFig4.Location = new System.Drawing.Point(8, 364);
             this.pbFig4.Name = "pbFig4";
             this.pbFig4.Size = new System.Drawing.Size(400, 300);
@@ -97,6 +100,7 @@
             // 
             // pbFig5
             // 
+            this.pbFig5.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.pbFig5.Location = new System.Drawing.Point(414, 364);
             this.pbFig5.Name = "pbFig5";
             this.pbFig5.Size = new System.Drawing.Size(400, 300);
@@ -105,6 +109,7 @@
             // 
             // pbFig3
             // 
+            this.pbFig3.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.pbFig3.Location = new System.Drawing.Point(820, 58);
             this.pbFig3.Name = "pbFig3";
             this.pbFig3.Size = new System.Drawing.Size(400, 300);
@@ -113,6 +118,7 @@
             // 
             // pbFig6
             // 
+            this.pbFig6.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.pbFig6.Location = new System.Drawing.Point(820, 364);
             this.pbFig6.Name = "pbFig6";
             this.pbFig6.Size = new System.Drawing.Size(400, 300);
